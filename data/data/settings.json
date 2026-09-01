@@ -1,0 +1,18 @@
+{
+  "adminPasswordHash": "f4acbdabcfbf7d5b2c70c0660e96dbc2dab69a29d9c226ed1b3d10c361543981",
+  "site": {
+    "brand": "Kianda",
+    "tagline": "Bolsas com alma de Luanda",
+    "announcement": "✨ Entrega grátis em Luanda em compras acima de 40.000 Kz • Pagamento na entrega disponível",
+    "heroTitle": "Bolsas com alma de Luanda",
+    "heroSubtitle": "A Kianda nasceu da lenda angolana da deusa das águas. Cada bolsa é desenhada para a jovem angolana que carrega o mundo — com estilo.",
+    "whatsapp": "244930706741",
+    "email": "ola@kianda.co.ao",
+    "instagram": "kianda.bolsas",
+    "tiktok": "kiandabags",
+    "facebook": "kiandabags.ao",
+    "deliveryInfo": "Entrega em Luanda em 24–48h. Envios para todo o país via transportadora expressa.",
+    "freeShippingFrom": 40000,
+    "paymentInfo": "Multicaixa Express, transferência bancária ou pagamento na entrega (Luanda)."
+  }
+}
